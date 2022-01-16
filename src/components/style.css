@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 62.5%;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+header {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+header div {
+    text-align: center;
+    padding: 2rem;
+}
+
+header img {
+    width: 12rem;
+    display: block;
+    margin: 0 auto;
+}
+
+header hr {
+    margin: 1.5rem auto;
+    max-width: 60%;
+}
+
+header nav {
+
+}
+
+header h1 {
+    font-size: 6rem;
+    font-weight: 100;
+}
+
+header h3 {
+    font-size: 1.4rem;
+    font-weight: 300;
+    font-style: italic;
+
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+}
+
+nav li {
+    margin: 0 .5rem;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 1.7rem;
+    padding: 1rem 0;
+    color: #0C3C2C;
+}
