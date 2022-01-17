@@ -7,7 +7,7 @@ const mainColor = '#0C3C2C';
     // textColor = '#FFFFFF';
 
 const CwHeader = styled.header`
-  max-width: 90%;
+  max-width: 100%;
   margin: 0 auto;
 `;
 
@@ -17,23 +17,23 @@ const CwHeaderDiv = styled.div`
 `;
 
 const CwHeaderImg = styled.img`
-  width: 12rem;
+  width: 10rem;
   display: block;
   margin: 0 auto;
 `;
 
 const CwHeaderHr = styled.hr`
-  margin: 1.5rem auto;
+  margin: 2rem auto;
   max-width: 60%;
 `;
 
 const CwHeaderTitulo = styled.h1`
-  font-size: 6rem;
+  font-size: 4rem;
   font-weight: 100;
 `;
 
 const CwSubtitulo = styled.h3`
-  font-size: 1.4rem;
+  font-size: 1.7rem;
   font-weight: 300;
   font-style: italic;
 `;
